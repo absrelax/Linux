@@ -650,7 +650,11 @@ sudo nano /etc/host
 Запустить 
 sudo a2ensite и добавить обе записи
 
-ЗАВИСИМОСТИ
+
+/////////////////
+// ЗАВИСИМОСТИ //
+/////////////////
+
 This section lists all required and optional PHP modules. Consult the PHP manual for more information on modules. You can check the presence of a module by typing php -m | grep -i <module_name>. If you get a result, the module is present.
 
 Required:
